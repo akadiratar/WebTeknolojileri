@@ -1,0 +1,80 @@
+.padTop10
+{
+	padding-top:10px;	
+}
+
+.padTop30
+{
+	padding-top:30px;	
+}
+body {
+    padding-top: 10px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+div.ust
+{
+background-image:url(../images/foto1.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+div.iletisimsol
+{
+background-image:url(../images/placeholder.jpg);
+ background-size: cover;
+}
+/*=========================
+  social media
+ ================= */
+
+/* footer social icons */
+ul.social-network {
+	list-style: none;
+	display: inline;
+	margin-left:0 !important;
+	padding: 0;
+}
+ul.social-network li {
+	display: inline;
+	margin: 0 5px;
+}
+
+
+/* footer social icons */
+
+.social-network a.icoFacebook {
+	background-color:#3B5998;
+}
+.social-network a.icoTwitter {
+	background-color:#33ccff;
+}
+.social-network a.icoLinkedin {
+	background-color:#007bb7;
+}
+
+.social-circle li a {
+	display:inline-block;
+	position:relative;
+	margin:0 auto 0 auto;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%;
+	border-radius:50%;
+	text-align:center;
+	width: 30px;
+	height: 30px;
+	font-size:15px;
+}
+.social-circle li i {
+	margin:0;
+	line-height:30px;
+	text-align: center;
+}
+
+.social-circle i {
+	color: #fff;
+
+}
+
+ul.social-network li a {
+ background-color: #D3D3D3;   
+} 
