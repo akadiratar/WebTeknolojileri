@@ -18,6 +18,14 @@ background-image:url(../images/foto1.jpg);
  background-size: cover;
 }
 
+div.sehirust
+{
+background-image:url(../images/bilecik_bolge.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ min-height: 300px;
+}
+
 div.iletisimsol
 {
 background-image:url(../images/placeholder.jpg);
