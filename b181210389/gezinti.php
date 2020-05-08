@@ -29,14 +29,14 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
       <ul class="navbar-nav mr-auto">
-      <li class="nav-item active"><a class="nav-link" href="index.php">Anasayfa</a></li>
-      <li class="nav-item dropdown">
+      <li class="nav-item"><a class="nav-link" href="index.php">Anasayfa</a></li>
+      <li class="nav-item dropdown active">
       <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
         Benim Şehrim
       </a>
       <div class="dropdown-menu" aria-labelledby="navbarDropdown">
         <a class="dropdown-item" href="benim-sehrim.php">BİLECİK?</a>
-        <a class="dropdown-item" href="gezinti.php">BİLECİK'te Gezinti</a>
+        <a class="dropdown-item active" href="gezinti.php">BİLECİK'te Gezinti</a>
       </div>
       </li>      
       <li class="nav-item dropdown">
@@ -60,65 +60,7 @@
 
 <main role="main">
 
-  <div id="Slider" class="carousel slide" data-ride="carousel">
-    <ol class="carousel-indicators">
-      <li data-target="#Slider" data-slide-to="0" class="active"></li>
-      <li data-target="#Slider" data-slide-to="1"></li>
-      <li data-target="#Slider" data-slide-to="2"></li>
-      <li data-target="#Slider" data-slide-to="3"></li>
-    </ol>
-    <div class="carousel-inner">
-      <div class="carousel-item active">
-	  <img src="images/sau4.jpg" class="bd-placeholder-img" focusable="false" role="img">
-        <div class="container">
-          <div class="carousel-caption text-left">
-            <h1>Başlık</h1>
-            <p>Açıklama</p>
-            <p><a class="btn btn-lg btn-primary" href="#" role="button">Sayfa Link</a></p>
-          </div>
-        </div>
-      </div>
-      <div class="carousel-item">
-        <img src="images/sau4.jpg" class="bd-placeholder-img"  focusable="false" role="img">
-        <div class="container">
-          <div class="carousel-caption text-left">
-            <h1>Başlık</h1>
-            <p>Açıklama</p>
-            <p><a class="btn btn-lg btn-primary" href="#" role="button">Sayfa Link</a></p>
-          </div>
-        </div>
-      </div>
-      <div class="carousel-item">
-        <img src="images/sau4.jpg" class="bd-placeholder-img" focusable="false" role="img">
-        <div class="container">
-           <div class="carousel-caption text-left">
-            <h1>Başlık</h1>
-            <p>Açıklama</p>
-            <p><a class="btn btn-lg btn-primary" href="#" role="button">Sayfa Link</a></p>
-          </div>
-        </div>
-      </div>
-      <div class="carousel-item">
-        <img src="images/sau4.jpg" class="bd-placeholder-img" focusable="false" role="img">
-        <div class="container">
-           <div class="carousel-caption text-left">
-            <h1>Başlık</h1>
-            <p>Açıklama</p>
-            <p><a class="btn btn-lg btn-primary" href="#" role="button">Sayfa Link</a></p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <a class="carousel-control-prev" href="#Slider" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="sr-only">Geri</span>
-    </a>
-    <a class="carousel-control-next" href="#Slider" role="button" data-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="sr-only">İleri</span>
-    </a>  
 
-  </div>
 
   <!--================================================== -->
   
