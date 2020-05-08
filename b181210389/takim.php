@@ -61,9 +61,111 @@
 
 
 <main role="main">
+  <div class="row align-items-start padTop20takim ustTakim ">
+    <div class="col align-items-left padTop50 ">    
+      <center><font size="10"><p><b>TRABZONSPOR</b></p></font></center>
+    </div>  
+    <div class="col align-items-right padTop50 ">    
+      <center><font size="10"><p><b>FUTBOL KLÜBÜ</b></p></font></center>
+    </div> 
+  </div>
   <!--================================================== -->
-  
-<hr class="featurette-divider">
+<hr class="mt-3 mb-3"> 
+
+
+
+<div class="container">
+<div class="row align-items-start">    
+  </div>
+  <div class="row align-items-start">
+    <div class="col align-items-center">    
+      <center><font size="6"><p><b>KURULUŞU</b></p></font></center>
+    </div>   
+  </div>
+  <div class="row align-items-center">
+    <div class="col col-md-2 flex-md-row mb-4 shadow-sm h-md-250">
+     <img class="img-thumbnail" alt="profil foto" src="images/idmangucu.png" "/>
+    </br></br></br></br>
+     <img class="img-thumbnail" alt="profil foto" src="images/idmanocak.png" "/>
+    </div>  
+    <div class="col col-md-10">
+      <p  align=justify>&nbsp &nbsp &nbsp Trabzon'un gençspor kulüpleri adeta GS ve FB olarak nitelendirilen İdmanocağı ve İdmangücü kulüpleri arasında çekişmeler had safadaydı. Trabzonspor'un kuruluşu esnasında savaş kendini iyice belli etmiş ve bu rekabet kulübün temellerinin atılamsında büyük pay sahibi olmuştur. Her iki takımda ünlü ve büyük kulüpler olan ancak bir araya gelerek Trabzonspor'u kurmayı asla kabullenmeyen Kulüpler TS'yi kendi çatısı altında kurmayı hedeflemişlerdi. Bunun ardından 2.lig başlamış ve Anadolu'nun bütün takımları maçlarını oynamış olmasına rağmen karadenizden bir takımın kurulmasına izin verilmiyordu. Uzun uğraşlar sonucunda 21 Haziran 1966 tarihinde İdmanocağı, Yıldızspor ve Martıspor birleşerek Trabzonspor'u kurdu. Ancak bazı prosedürlerin gerçekleşememesi sonucunda maçlar askıya alındı. İki ay sonunda bu kez idmangücü atağa kalkıyor Martıspor ve Yolspor ile birleşip kırmızı ve beyaz renklere sahip Trabzon Gençlik Kulübünü kuruyor. Trabzon 1966—1967 sezonunda bu kulüp tarafından temsil ediliyor.</p>
+      <p  align=justify>&nbsp &nbsp &nbsp İdmanocağı karadeniz takımı İdmangücü'nün temsil etmesini kabul etmemesinin ardından danıştay davası açıyor. Danıştayda davayı haklı görüp kabul ediyor. Ancak iki kulüp yine bir araya gelmek istemeyip kendi renkleri ile Trabzonspor'u kurma hayalini dile getiriyor. Dönemin  Futbol Federasyonu Başkanı Orhan Şeref Apak, bu iki kulüp birleşmez ise takımın kurulamayacağına dair açıklamada bulundu. Bu seferde renkler problem haline geldi. İdmanocağılılar sarı—kırmızı, İdmangücülüler yeşil—beyaz renkleri kullanmak istediler. Renk tartışmaları Trabzon’da sürerken olaylar Ankara’da olan Orhan Şeref Apak’ın da kulağına gidiyor.</p>
+      <p  align=justify>&nbsp &nbsp &nbsp Sonunda iki kulüpde bir renk seçiyor. İdmanocağı bordoyu, İdmangücü de açık maviyi seçiyor. Kendilerine yakın olması için benzer renkler kullanılıyor. Bu olayların sonunda bir karadeniz takımı olan Trabzonspor, Karadenizgücü ve Martıspor’un katılımları ile 2 Ağustos 1967’de kuruluyor</p>
+    </div>     
+  </div>
+
+
+
+  <div class="row align-items-start">
+    <div class="col">
+      <div style="margin-top: 20px">
+      <center><font size="4"><p><b>GENEL BİLGİLENDİRME</b></p></font></center>
+    </div>
+      <hr class="mt-3 mb-3">
+        <center><table class="table table-dark" style="max-width: 900px">     
+      <tbody>
+        <tr>          
+          <td>Trabzonspor Stadı</td>
+          <td>Şenol GÜNEŞ Spor Kompleksi Akyazı/TRABZON</td>          
+        </tr>
+        <tr>          
+          <td>Trabzonspor Klüp Başkanı</td>
+          <td>Ahmet AĞAOĞLU</td>          
+        </tr>
+        <tr>          
+          <td>TrabzonsporTeknik Direktörü</td>
+          <td>Hüseyin ÇİMŞİR</td>          
+        </tr>
+        <tr>          
+          <td>Trabzonspor Takım Kaptanı</td>
+          <td>Jose Ernesto SOSA</td>          
+        </tr>       
+      </tbody>
+  </table></center>
+    </div> 
+  </div>
+  <div style="margin-top: 20px">
+   <center><font size="4"><p><b>KUPALARIMIZ</b></p></font></center>
+ </div>
+   <hr class="mt-3 mb-3">
+  <div class="row align-items-center">
+
+    <div class="col align-items-center">
+    <center><font size="3"><p><b>SÜPER LİG</b></p></font></center>
+      <center><div class="card" style="width: 18rem;">
+            <a href="https://www.transfermarkt.com.tr/trabzonspor/erfolge/verein/449" target="_blank"><img class="card-img-top" src="images/tfflig.png" alt="Card image cap"></a>
+          <div class="card-body">
+            <p class="card-text">83/84 ,  80/81 ,  79/80 ,  78/79 ,  76/77 ,  75/76</p>
+           </div>
+      </div>
+      </center>
+    </div>
+    <div class="col">
+    <center><font size="3"><p><b>TÜRKİYE KUPASI</b></p></font></center>
+    <center><div class="card" style="width: 18rem;">
+        <a href="https://www.transfermarkt.com.tr/trabzonspor/erfolge/verein/449" target="_parent"><img class="card-img-top" src="images/turkiyekupasi.png" alt="Card image cap" href="www.trabzonspor.com.tr"></a>
+          <div class="card-body">
+            <p class="card-text">09/10 ,  03/04 ,  02/03 ,  94/95 ,  91/92 ,  83/84 ,  78/79 ,  76/77</p>
+           </div>
+      </div></center>
+    </div>
+       <div class="col">
+    <center><font size="3"><p><b>SÜPER KUPA</b></p></font></center>
+    <center><div class="card" style="width: 18rem;">
+            <a href="https://www.transfermarkt.com.tr/trabzonspor/erfolge/verein/449"><img class="card-img-top" src="images/superkupa.png" alt="Card image cap"></a>
+          <div class="card-body">
+            <p class="card-text">10/11 ,  94/95 ,  82/83 ,  79/80 ,  78/79 ,  77/78 ,  76/77 ,  75/76</p>
+           </div>
+      </div></center>
+    </div>
+  </div>
+
+
+
+
+
+<hr class="mt-3 mb-3">
   <!----================================================-->
   <!-- FOOTER -->
 	  <footer class="container">

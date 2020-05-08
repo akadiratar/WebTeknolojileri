@@ -71,8 +71,8 @@
     </div>   
   </div>
   <div class="row align-items-center">
-    <div class="col col-md-2 card flex-md-row mb-4 shadow-sm h-md-250">
-     <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/a.svg" "/>
+    <div class="col col-md-2 flex-md-row mb-4 shadow-sm h-md-250">
+     <img class="img-thumbnail" alt="profil foto" src="images/profil.png" "/>
     </div>  
     <div class="col col-md-10">
       <p  align=justify>&nbsp &nbsp &nbsp 18 Şubat 1991 yılında Kadıköy/İSTANBUL’da doğdum. İlk ve Orta ve Lise Eğitimimi Pendik/İSTANBUL’da aldım. İlköğretim yıllarında başlayan elektronik merakım zaman içerisinde teknolojinin yayılımı ile bilgisayar ve bilişim sistemlerine evrildi. Bilgisayar kasasını parçalarına ayırmanın verdiği haz, İnternet kullanımının yaygınlaşması ile popüler olmaya başlayan “Kişisel Blog” oluşturma kervanına katılmama ve HTML dilini öğrenmemi sağladı. Zevklerimden çok uzakta, eğitim sisteminin dayatmaları ile 2008 yılında Dumlupınar Üniversitesi Malzeme Mühendisliği bölümünde eğitim görmeye başlasam da bir yanım her zaman Bilişim Sektörünün içinde kaldı ve kendi çabamla C, C++ ve C# dillerini öğrenmeye başladım. Bitmeyen ve sürekli artan bu tutkum 2014 yılında ilk adımı attığım Sakarya Üniversitesi’nde gerçekleşerek Bilgisayar Programcılığı ve Bilgisayar Mühendisliği bölümlerinde eğitim almamı sağladı. Çalışma hayatımı İstanbul Anadolu Adalet Sarayında Network, Yazılım ve SEGBİS şefliğinde görev yaparak sürdürmekteyim. Mevcut görevimin yanında İstanbul Bölge Bilirkişi Kuruluna bağlı Yeminli Adli Bilirkişi olarak görev yapmakta ve Serbest Yazılım Geliştirme çalışmalarıma devam etmekteyim. Evli ve 1 çocuk babasıyım.</p>
@@ -84,23 +84,23 @@
     </div>   
   </div>
   <div class="row align-items-end">
-    <div class="col col-md-2 card flex-md-row mb-4 shadow-sm h-md-250">
-     <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/a.svg" "/>
+    <a href="https://www.pcnet.com.tr" target="_blank"><div class="col col-md-2 card flex-md-row mb-4 shadow-sm h-md-250">
+     <img class="img-thumbnail card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/pc.jpg"/></a>      
     </div> 
-   <div class="col col-md-2 card flex-md-row mb-4 shadow-sm h-md-250">
-     <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/a.svg" "/>
+   <a href=""><div class="col col-md-2 card flex-md-row mb-4 shadow-sm h-md-250">
+     <a href="https://www.anadoluefessk.org" target="_blank"><img class="img-thumbnail card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/basket.jpg"/></a> 
     </div> 
     <div class="col col-md-2 card flex-md-row mb-4 shadow-sm h-md-250">
-     <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/a.svg" "/>
+     <a href="https://www.trabzonspor.org.tr/tr" target="_blank"><img class="img-thumbnail card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/futbol.jpg"/></a> 
     </div>
     <div class="col col-md-2 card flex-md-row mb-4 shadow-sm h-md-250">
-     <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/a.svg" "/>
+     <a href="https://www.kampkaravan.org.tr" target="_blank"><img class="img-thumbnail card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/kamp.jpg"/></a> 
     </div> 
     <div class="col col-md-2 card flex-md-row mb-4 shadow-sm h-md-250">
-     <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/a.svg" "/>
+     <a href="https://www.highcountryhounds.com/avcilik-sporu/" target="_blank"><img class="img-thumbnail card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/av.jpg"/></a> 
     </div> 
     <div class="col col-md-2 card flex-md-row mb-4 shadow-sm h-md-250">
-     <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/a.svg" "/>
+     <a href="http://www.tosfed.org.tr" target="_blank"><img class="img-thumbnail card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/f1.jpg"/></a> 
     </div>  
 
   </div>

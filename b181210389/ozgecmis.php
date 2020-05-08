@@ -144,36 +144,25 @@
     </div>   
     <div class="row align-items-end">
    <div class="col col-md-2 card flex-md-row mb-4 shadow-sm h-md-250">
-     <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/a.svg" "/>
+     <img class="img-thumbnail card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/c.jpg" "/>
     </div> 
    <div class="col col-md-2 card flex-md-row mb-4 shadow-sm h-md-250">
-     <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/a.svg" "/>
+     <img class="img-thumbnail card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/csharp.png" "/>
     </div> 
     <div class="col col-md-2 card flex-md-row mb-4 shadow-sm h-md-250">
-     <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/a.svg" "/>
+     <img class="img-thumbnail card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/java.png" "/>
     </div>
     <div class="col col-md-2 card flex-md-row mb-4 shadow-sm h-md-250">
-     <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/a.svg" "/>
+     <img class="img-thumbnail card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/asp-mvc.png" "/>
     </div> 
     <div class="col col-md-2 card flex-md-row mb-4 shadow-sm h-md-250">
-     <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/a.svg" "/>
+     <img class="img-thumbnail card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/php.png" "/>
     </div> 
     <div class="col col-md-2 card flex-md-row mb-4 shadow-sm h-md-250">
-     <img class="card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/a.svg" "/>
+     <img class="img-thumbnail card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/js.png" "/>
     </div>  
   </div>
 </div>
-  <div class="row align-items-end">
-    <div class="col">
-      One of three columns
-    </div>
-    <div class="col">
-      One of three columns
-    </div>
-    <div class="col">
-      One of three columns
-    </div>
-  </div>
 </div>
 
 <hr class="mt-3 mb-3">

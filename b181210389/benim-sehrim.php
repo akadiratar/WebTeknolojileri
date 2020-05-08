@@ -95,42 +95,42 @@
         </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="images/sau4.jpg" class="bd-placeholder-img" focusable="false" role="img">
+        <img src="images/bilecik1.png" class="bd-placeholder-img" focusable="false" role="img">
         <div class="container">
           <div class="carousel-caption text-left">
-            <h1>Başlık</h1>
-            <p>Açıklama</p>
-            <p><a class="btn btn-lg btn-primary" href="#" role="button">Sayfa Link</a></p>
+            <h1>BİLECİK</h1>
+            <p>Kuruluşun Şehri</p>
+            <p><a class="btn btn-lg btn-primary" href="#" role="button">Devamı...</a></p>
           </div>
         </div>
       </div>
       <div class="carousel-item">
-        <img src="images/sau4.jpg" class="bd-placeholder-img"  focusable="false" role="img">
+        <img src="images/bilecik2.jpg" class="bd-placeholder-img"  focusable="false" role="img">
         <div class="container">
           <div class="carousel-caption text-left">
-            <h1>Başlık</h1>
-            <p>Açıklama</p>
-            <p><a class="btn btn-lg btn-primary" href="#" role="button">Sayfa Link</a></p>
+            <h1>Şeyh Edebali Türbesi</h1>
+            <p>Kuruluşun Görünmeyen Mimarı</p>
+            <p><a class="btn btn-lg btn-primary" href="#" role="button">Devamı...</a></p>
           </div>
         </div>
       </div>
       <div class="carousel-item">
-        <img src="images/sau4.jpg" class="bd-placeholder-img" focusable="false" role="img">
+        <img src="images/bilecik3.jpg" class="bd-placeholder-img" focusable="false" role="img">
         <div class="container">
            <div class="carousel-caption text-left">
-            <h1>Başlık</h1>
-            <p>Açıklama</p>
-            <p><a class="btn btn-lg btn-primary" href="#" role="button">Sayfa Link</a></p>
+            <h1>BİLECİK Müzesi</h1>
+            <p>Tarihe Tanıklık Edilmeli</p>
+            <p><a class="btn btn-lg btn-primary" href="#" role="button">Devamı...</a></p>
           </div>
         </div>
       </div>
       <div class="carousel-item">
-        <img src="images/sau4.jpg" class="bd-placeholder-img" focusable="false" role="img">
+        <img src="images/harmankaya.jpg" class="bd-placeholder-img" focusable="false" role="img">
         <div class="container">
            <div class="carousel-caption text-left">
-            <h1>Başlık</h1>
-            <p>Açıklama</p>
-            <p><a class="btn btn-lg btn-primary" href="#" role="button">Sayfa Link</a></p>
+            <h1>Yenipazar / Harmankaya Kanyonu</h1>
+            <p>Ekstrem Sporları Seviyorsanız Mutlaka Görülmeli</p>
+            <p><a class="btn btn-lg btn-primary" href="#" role="button">Devamı...</a></p>
           </div>
         </div>
       </div>

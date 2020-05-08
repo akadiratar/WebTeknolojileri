@@ -8,6 +8,18 @@
 	padding-top:30px;	
 }
 
+.padTop50
+{
+	padding-top:70px;
+	padding-bottom: 70px;	
+}
+.padTop20takim
+{
+	margin-top: 10px;
+	
+}
+
+
 body {
     padding-top: 10px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
@@ -15,6 +27,14 @@ body {
 div.ust
 {
 background-image:url(../images/foto1.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+div.ustTakim
+{
+background-image:url(../images/ts.jpg);
+min-height: 100px;
  background-repeat: no-repeat;
  background-size: cover;
 }
