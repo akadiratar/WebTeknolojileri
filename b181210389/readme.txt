@@ -7,11 +7,16 @@ Bir giriş kontrol formu oluşturacağım.
 ////***-------***//////
 
 Şehir tanıtım sayfasında bulunan slider da kullanılan linkler html sayfanın yeni bir sayfada açılabileceğini
-göstermek için harici sayfada açılmış. Buralara Nav menüsü bilerek eklenmemiştir.
+göstermek için harici sayfada açılmış. Harici sayfadan devam etmemek için buralara Nav menüsü bilerek eklenmemiştir.
+
+
+////***-------***//////
+
+js/main.js ve  css/main.css kendi oluşturduğum dosyalardır. 
 
 
 
-//////////////////
+////***-------***//////
 login test işlemleri 
 
 email: abdulkadir.atar@ogr.sakarya.edu.tr
@@ -19,4 +24,18 @@ email: abdulkadir.atar@ogr.sakarya.edu.tr
 
 kontrol.php dosyası içerisinden değiştirilebilir
 
-////
+////***-------***//////
+
+footer.php dosyası üzerinden tüm sayfaların footer kısımlarını çekiyorum.
+Bunu sayfanın bir çok aşamasında kullanabilir daha dinamik bir yapı oluşturulabilir.
+Ödev html yazmayı geliştirme amaçlı verildiği için tekrar etmek amacı ile kasıtlı olarak kullanılmamıştır.
+
+
+////***-------***//////
+
+login kısmı pop-up olarak tasarlanmıştır. 
+bu kısmı da login.php dosyasından çekiyorum.
+
+
+////***-------***//////
+
