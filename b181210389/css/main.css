@@ -13,9 +13,9 @@
 	padding-top:70px;
 	padding-bottom: 70px;	
 }
-.padTop20takim
+.padToptakim
 {
-	margin-top: 10px;
+	margin-top: 200px;
 	
 }
 
@@ -28,15 +28,14 @@ div.ust
 {
 background-image:url(../images/foto1.jpg);
  background-repeat: no-repeat;
- background-size: cover;
+ background-size: 100% 100%;
 }
 
 div.ustTakim
 {
 background-image:url(../images/ts.jpg);
-min-height: 100px;
- background-repeat: no-repeat;
- background-size: cover;
+background-repeat: no-repeat;
+ background-size: 100% 100%;
 }
 
 div.sehirust

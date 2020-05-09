@@ -142,24 +142,24 @@
   	<div class="col align-items-center">    
       <center><font size="3"><p><b>YETKİNLİKLERİM</b></p></font></center>
     </div>   
-    <div class="row align-items-end">
-   <div class="col col-md-2 card flex-md-row mb-4 shadow-sm h-md-250">
-     <img class="img-thumbnail card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/c.jpg" "/>
+   <div class="row featurette" >
+    <div class="col-md-2 order-md-2">
+     <center><img class="img-thumbnail"  src="images/c.jpg"/></center>
     </div> 
-   <div class="col col-md-2 card flex-md-row mb-4 shadow-sm h-md-250">
-     <img class="img-thumbnail card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/csharp.png" "/>
+   <div class="col-md-2 order-md-2">
+     <center><img class="img-thumbnail"  src="images/csharp.png"/></center>
     </div> 
-    <div class="col col-md-2 card flex-md-row mb-4 shadow-sm h-md-250">
-     <img class="img-thumbnail card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/java.png" "/>
+    <div class="col-md-2 order-md-2">
+     <center><img class="img-thumbnail"  src="images/java.png"/></center>
     </div>
-    <div class="col col-md-2 card flex-md-row mb-4 shadow-sm h-md-250">
-     <img class="img-thumbnail card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/asp-mvc.png" "/>
+    <div class="col-md-2 order-md-2">
+     <center><img class="img-thumbnail"  src="images/asp-mvc.png"/></center>
     </div> 
-    <div class="col col-md-2 card flex-md-row mb-4 shadow-sm h-md-250">
-     <img class="img-thumbnail card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/php.png" "/>
+    <div class="col-md-2 order-md-2">
+    <center><img class="img-thumbnail"  src="images/php.png"/></center>
     </div> 
-    <div class="col col-md-2 card flex-md-row mb-4 shadow-sm h-md-250">
-     <img class="img-thumbnail card-img-right flex-auto d-none d-lg-block" alt="Thumbnail [200x250]" src="images/js.png" "/>
+    <div class="col-md-2 order-md-2">
+     <center><img class="img-thumbnail"  src="images/js.png"/></center>
     </div>  
   </div>
 </div>

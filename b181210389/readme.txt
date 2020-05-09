@@ -8,3 +8,15 @@ Bir giriş kontrol formu oluşturacağım.
 
 Şehir tanıtım sayfasında bulunan slider da kullanılan linkler html sayfanın yeni bir sayfada açılabileceğini
 göstermek için harici sayfada açılmış. Buralara Nav menüsü bilerek eklenmemiştir.
+
+
+
+//////////////////
+login test işlemleri 
+
+email: abdulkadir.atar@ogr.sakarya.edu.tr
+şifre: test123
+
+kontrol.php dosyası içerisinden değiştirilebilir
+
+////

@@ -37,11 +37,11 @@
   <div class="row align-items-start  padTop10">
    
   </div>
-  <div class="row align-items-center">
-    <div class="col col-md-4 card flex-md-row mb-4 shadow-sm h-md-250">
+  <div class="row featurette">
+    <div class="col-md-5 order-md-2">
      <img class="img-thumbnail"  src="images/turbe2.jpg"/>
     </div>  
-    <div class="col col-md-8">
+    <div class="col-md-7 order-md-2" style="margin-top: 3%">
       <p  align=justify>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspBilecik’teki en önemli tarih miraslarından bir tanesidir. Orhan Gazi Camii’nin üst tarafındaki tepelik alandadır. Yapılış tarihi belli olmamakla birlikte Orhan Gazi devrinde inşa edildiği kabul edilmektedir.<p>
          <p  align=justify>Türbede Şeyh Edebali ile birlikte, şeyhin neslinden altı büyük ve dört küçük sanduka vardır. Sanduka odasının haricinde iki oda daha bulunmaktadır. Türbe ve dergâh, Sultan II. Abdülhamid döneminde ve son olarak da 2012 yılında tadilat görmüştür. Türbenin hemen yanında aynı tarihlerde inşa edildiği tahmin edilen, Osman Gazi’nin eşi Bala Hatun ve annesinin sandukalarının bulunduğu bir türbe daha bulunmaktadır.</p>
 

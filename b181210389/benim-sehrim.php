@@ -71,11 +71,11 @@
   </div>
   <hr class="mt-3 mb-3"> 
 
-  <div class="row align-items-center">
-    <div class="col col-md-4 card flex-md-row mb-4 shadow-sm h-md-250">
+    <div class="row featurette">
+    <div class="col-md-5 order-md-2" style="margin-top: 2%">
      <img class="img-thumbnail"  src="images/bilecik2.jpg"/>
     </div>  
-    <div class="col col-md-8">
+    <div class="col-md-7 order-md-2">
       <p  align=justify>&nbsp &nbsp &nbsp Bilecik, Türkiye’nin 4 tane coğrafi bölgesinde toprakları olan tek ilimizdir. Marmara bölgesine bağlı olmasına rağmen Ege Bölgesi, İç Anadolu Bölgesi ve Karadeniz Bölgesinde de toprakları vardır. Bilecik, Sakarya ırmağının etrafına kurulmuştur. Göletleri ve derelerinin çokluğu ile bereketli toprakları vardır. Bilecik merkez hariç 7 tane ilçesi, 7 tane beldesi ve 243 tane köyü bulunmaktadır.</p>
       
       <p  align=justify>&nbsp &nbsp &nbsp Siyasi ve kültürel gelişimi, Anadolu’nun geneliyle paralellik gösteren il, M.Ö.2.binde Hitit, ardından da İ.Ö.1200’de Frig egemenlik bölgeleri içerisinde kalmıştır. Bu süreçte Bilecik, hem maden ticareti dolayısıyla hem de Trakya ve Anadolu arasında bir geçiş noktası olması nedeniyle, hızlı gelişen bir yerleşim merkezi olmuştur. Frigler zamanında bölgeye hayat veren Sakarya ırmağının adıSangarios (ulu ırmak tanrısı) olarak bilinmektedir. Bilecik’in yer aldığı bölge Phrygia Epiktetos, Trakyalı Bithynia’lılar ülkesi olarak adlandırılmıştır.</p>

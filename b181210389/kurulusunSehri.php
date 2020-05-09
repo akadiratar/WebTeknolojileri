@@ -37,11 +37,11 @@
   <div class="row align-items-start  padTop10">
    
   </div>
-  <div class="row align-items-center">
-    <div class="col col-md-4 card flex-md-row mb-4 shadow-sm h-md-250">
+  <div class="row featurette">
+    <div class="col-md-5 order-md-2" style="margin-top: 7%">
      <img class="img-thumbnail"  src="images/bilecikkis.jpg"/>
     </div>  
-    <div class="col col-md-8">
+    <div class="col-md-7 order-md-2">
     </br>
       <p  align=justify>Bilecik Yüzölçümü: 4.307 km²<p>
       <p  align=justify>Bilecik Nüfusu: 223.448</p>

@@ -37,11 +37,11 @@
   <div class="row align-items-start  padTop10">
    
   </div>
-  <div class="row align-items-center">
-    <div class="col col-md-4 card flex-md-row mb-4 shadow-sm h-md-250">
+  <div class="row featurette">
+    <div class="col-md-5 order-md-2" style="margin-top: 1%">
      <img class="img-thumbnail" src="images/muze.jpg"/>
     </div>  
-    <div class="col col-md-8">
+    <div class="col-md-7 order-md-2">
     </br>
       <p  align=justify>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspBilecik Müzesi 1794’te iki katlı jandarma binası olarak inşa edilmiş, daha sonra alt kat hapishane yapılmıştır.1921-1922 yıllarındaki Yunan işgalinde tamamen yanmış olan binanın enkazı üzerine işgalden sonra iki kat olarak adliye binası inşa edilmiş, alt katı hapishane olarak kullanılmıştır. 1996 yılında cezaevinin yeni yapılan binasına taşınmasıyla birlikte Müze olarak kullanılmak üzere Kültür ve Turizm Bakanlığı’na tahsis edilen bina 2005 yılındaki restorasyon-teşhir-tanzim ve çevre düzenlemesi çalışmalarından sonra 2006 yılından itibaren müze olarak hizmet vermektedir. Müzede arkeolojik ve etnografik eserler yer almaktadır.</p>
 
