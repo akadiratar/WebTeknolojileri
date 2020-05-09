@@ -35,7 +35,7 @@
         Benim Şehrim
       </a>
       <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-        <a class="dropdown-item" href="benim-sehrim.php">BİLECİK?</a>
+        <a class="dropdown-item" href="benim-sehrim.php">BİLECİK</a>
         <a class="dropdown-item" href="gezinti.php">BİLECİK'te Gezinti</a>
       </div>
       </li>      
@@ -44,7 +44,7 @@
         Hakkımda
       </a>
       <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-        <a class="dropdown-item" href="ben-kimim.php">Ben Kimim?</a>
+        <a class="dropdown-item" href="ben-kimim.php">Ben Kimim</a>
         <a class="dropdown-item" href="ozgecmis.php">Özgeçmişim</a>          
         <a class="dropdown-item" href="takim.php">Takımım</a>
       </div>
@@ -69,44 +69,16 @@
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-	  <img src="images/sau4.jpg" class="bd-placeholder-img" focusable="false" role="img">
-        <div class="container">
-          <div class="carousel-caption text-left">
-            <h1>Başlık</h1>
-            <p>Açıklama</p>
-            <p><a class="btn btn-lg btn-primary" href="#" role="button">Sayfa Link</a></p>
-          </div>
-        </div>
+	  <img src="images/sau4.jpg" class="bd-placeholder-img" focusable="false" role="img">        
       </div>
       <div class="carousel-item">
-        <img src="images/sau4.jpg" class="bd-placeholder-img"  focusable="false" role="img">
-        <div class="container">
-          <div class="carousel-caption text-left">
-            <h1>Başlık</h1>
-            <p>Açıklama</p>
-            <p><a class="btn btn-lg btn-primary" href="#" role="button">Sayfa Link</a></p>
-          </div>
-        </div>
+        <img src="images/sau4.jpg" class="bd-placeholder-img"  focusable="false" role="img">        
       </div>
       <div class="carousel-item">
-        <img src="images/sau4.jpg" class="bd-placeholder-img" focusable="false" role="img">
-        <div class="container">
-           <div class="carousel-caption text-left">
-            <h1>Başlık</h1>
-            <p>Açıklama</p>
-            <p><a class="btn btn-lg btn-primary" href="#" role="button">Sayfa Link</a></p>
-          </div>
-        </div>
+        <img src="images/sau4.jpg" class="bd-placeholder-img" focusable="false" role="img">       
       </div>
       <div class="carousel-item">
-        <img src="images/sau4.jpg" class="bd-placeholder-img" focusable="false" role="img">
-        <div class="container">
-           <div class="carousel-caption text-left">
-            <h1>Başlık</h1>
-            <p>Açıklama</p>
-            <p><a class="btn btn-lg btn-primary" href="#" role="button">Sayfa Link</a></p>
-          </div>
-        </div>
+        <img src="images/sau4.jpg" class="bd-placeholder-img" focusable="false" role="img">        
       </div>
     </div>
     <a class="carousel-control-prev" href="#Slider" role="button" data-slide="prev">
@@ -119,59 +91,13 @@
     </a>  
 
   </div>
-
+<hr class="mt-3 mb-3">
   <!--================================================== -->
-  
-
-
-<!--============================================ ----->
-  <div class="container">
-
-    <div class="row featurette">
-      <div class="col-md-7">
-        <h2 class="featurette-heading">Başlık<span class="text-muted">Başlık</span></h2>
-        <p class="lead">Açıklama</p>
-      </div>
-      <div class="col-md-5">
-        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 500x500"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
-      </div>
-    </div>
-
-    <hr class="featurette-divider">
-
-    <div class="row featurette">
-      <div class="col-md-7 order-md-2">
-        <h2 class="featurette-heading">Başlık<span class="text-muted">Başlık</span></h2>
-        <p class="lead">Açıklama</p>
-      </div>
-      <div class="col-md-5 order-md-1">
-        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 500x500"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
-      </div>
-    </div>
-
-    <hr class="featurette-divider">
-
-    <!--------------------->
-
-  </div><!-- /.container -->
-
 
   <!-- FOOTER -->
-	  <footer class="container">
-	   			<div class="row">
-				    <div class="col col-md-9">
-				      <p>Copyright &copy; Abdulkadir ATAR</p>
-				    </div>
-				    
-				    <div class="col col-md-3">
-				      <ul class="social-network social-circle float-right">                       
-                        <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-                    </ul>	
-				    </div>				   
-  				</div>
-  		</footer>
+	<?php
+include "footer.php";
+?>
 
 <?php
 include "login.php";

@@ -32,7 +32,7 @@
         Benim Şehrim
       </a>
       <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-        <a class="dropdown-item" href="benim-sehrim.php">BİLECİK?</a>
+        <a class="dropdown-item" href="benim-sehrim.php">BİLECİK</a>
         <a class="dropdown-item" href="gezinti.php">BİLECİK'te Gezinti</a>
       </div>
       </li>      
@@ -62,30 +62,32 @@
 <div class="container">
  
   <div class="row col-md-12">
-    <div class="col iletisimsol">
-     SOL
+    <div class="col-md-6 iletisimsol">
+     
     </div>
    
-    <div class="col">
+    <div class="col-md-6">
       <form action="iletisimFormu.php" name="iletisim" method= "post">
   <div class="form-group">
-    <label for="exampleFormControlInput1">Adınız(Zorunlu)</label>
+    <label for="exampleFormControlInput1"><strong>Adınız(Zorunlu)</strong></label>
     <input type="text" class="form-control" id="name" name="name" placeholder="Abdulkadir ATAR">
   </div>
   <div class="form-group">
-    <label for="exampleFormControlInput1">Elektronik Posta(Zorunlu)</label>
+    <label for="exampleFormControlInput1"><strong>Elektronik Posta(Zorunlu)</strong></label>
     <input type="email" name="email" class="form-control" id="email" placeholder="name@abdulkadiratar.com.tr">
   </div>
   <div class="form-group">
-    <label for="exampleFormControlInput1">Mesaj Konusu(Zorunlu)</label>
+    <label for="exampleFormControlInput1"><strong>Mesaj Konusu(Zorunlu)</strong></label>
     <input type="text" name="konu" class="form-control" id="konu" placeholder="Konu">
   </div> 
   <div class="form-group">
-    <label for="exampleFormControlTextarea1">Mesaj(Zorunlu)</label>
+    <label for="exampleFormControlTextarea1"><strong>Mesaj(Zorunlu)</strong></label>
     <textarea class="form-control" name="mesaj" id="mesaj" rows="6" placeholder="Mesajınız..."></textarea>
   </div>
-  
-<button type="submit" class="btn btn-lg btn-dark float-right">GÖNDER</button>
+<div>
+<button type="submit" class="btn  btn-dark float-right"><strong>GÖNDER</strong></button>
+<button type="reset" class="btn  btn-dark float-left" onclick="checkForm();"><strong>TEMİZLE</strong></button>
+</div>
 </form>
     </div>
   </div>
@@ -94,21 +96,9 @@
 
   <!----================================================-->
   <!-- FOOTER -->
-	  <footer class="container padTop30">
-	   			<div class="row">
-				    <div class="col col-md-9">
-				      <p>Copyright &copy; Abdulkadir ATAR</p>
-				    </div>
-				    
-				    <div class="col col-md-3">
-				       <ul class="social-network social-circle float-right">                       
-                        <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-                    </ul>	
-				    </div>				   
-  				</div>		   
-  	</footer>
+<?php
+include "footer.php";
+?>
     <?php
     include "login.php";
     ?>

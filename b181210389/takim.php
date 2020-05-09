@@ -34,7 +34,7 @@
         Benim Şehrim
       </a>
       <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-        <a class="dropdown-item" href="benim-sehrim.php">BİLECİK?</a>
+        <a class="dropdown-item" href="benim-sehrim.php">BİLECİK</a>
         <a class="dropdown-item" href="gezinti.php">BİLECİK'te Gezinti</a>
       </div>
       </li>      
@@ -168,21 +168,9 @@
 <hr class="mt-3 mb-3">
   <!----================================================-->
   <!-- FOOTER -->
-	  <footer class="container">
-	   			<div class="row">
-				    <div class="col col-md-9">
-				      <p>Copyright &copy; Abdulkadir ATAR</p>
-				    </div>
-				    
-				    <div class="col col-md-3">
-				       <ul class="social-network social-circle float-right">                      
-                        <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-                    </ul>	
-				    </div>				   
-  				</div>		   
-  	</footer>
+	<?php
+include "footer.php";
+?>
   	<?php
 	include "login.php";
 	?>

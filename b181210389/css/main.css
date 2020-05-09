@@ -47,10 +47,27 @@ background-image:url(../images/bilecik_bolge.jpg);
  min-height: 300px;
 }
 
+div.sehirustmuze
+{
+background-image:url(../images/muzedis.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ min-height: 300px;
+}
+
+div.harmankayaust
+{
+background-image:url(../images/harmankaya2.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ min-height: 300px;
+}
+
 div.iletisimsol
 {
-background-image:url(../images/placeholder.jpg);
+background-image:url(../images/iletisim.jpg);
  background-size: cover;
+ max-height: 500px;
 }
 /*=========================
   social media

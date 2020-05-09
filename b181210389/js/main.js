@@ -35,8 +35,7 @@ $(function() {
 
 
 
-      $(function() {
-  $("form[name='iletisim']").validate({
+ var kontrol =  $("form[name='iletisim']").validate({
     rules: {
   name:{
     required: true
@@ -64,6 +63,11 @@ $(function() {
     form.submit();
     }
   });
-});
+
 
       
+function checkForm(){
+
+    kontrol.resetForm();
+
+}

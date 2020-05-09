@@ -32,7 +32,7 @@
         Benim Şehrim
       </a>
       <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-        <a class="dropdown-item active" href="benim-sehrim.php">BİLECİK?</a>
+        <a class="dropdown-item active" href="benim-sehrim.php">BİLECİK</a>
         <a class="dropdown-item" href="gezinti.php">BİLECİK'te Gezinti</a>
       </div>
       </li>      
@@ -69,9 +69,11 @@
       <center><font size="6"><p><b>KURULUŞUN BEŞİĞİ 'BİLECİK'</b></p></font></center>
     </div>   
   </div>
+  <hr class="mt-3 mb-3"> 
+
   <div class="row align-items-center">
     <div class="col col-md-4 card flex-md-row mb-4 shadow-sm h-md-250">
-     <img class="img-thumbnail" alt="Thumbnail [200x250]" src="images/bilecik2.jpg" "/>
+     <img class="img-thumbnail"  src="images/bilecik2.jpg"/>
     </div>  
     <div class="col col-md-8">
       <p  align=justify>&nbsp &nbsp &nbsp Bilecik, Türkiye’nin 4 tane coğrafi bölgesinde toprakları olan tek ilimizdir. Marmara bölgesine bağlı olmasına rağmen Ege Bölgesi, İç Anadolu Bölgesi ve Karadeniz Bölgesinde de toprakları vardır. Bilecik, Sakarya ırmağının etrafına kurulmuştur. Göletleri ve derelerinin çokluğu ile bereketli toprakları vardır. Bilecik merkez hariç 7 tane ilçesi, 7 tane beldesi ve 243 tane köyü bulunmaktadır.</p>
@@ -84,6 +86,7 @@
       <center><font size="6"><p><b>FOTOĞRAFLARLA BİLECİK</b></p></font></center>
     </div>   
   </div>
+<hr class="mt-3 mb-3"> 
 
     <div class="col col-md-12 mb-12 shadow-sm h-md-250">
      <div id="Slider" class="carousel slide" data-ride="carousel">
@@ -100,7 +103,7 @@
           <div class="carousel-caption text-left">
             <h1>BİLECİK</h1>
             <p>Kuruluşun Şehri</p>
-            <p><a class="btn btn-lg btn-primary" href="#" role="button">Devamı...</a></p>
+            <p><a class="btn btn-lg btn-primary" href="kurulusunSehri.php" target="_blank" role="button">Devamı...</a></p>
           </div>
         </div>
       </div>
@@ -110,7 +113,7 @@
           <div class="carousel-caption text-left">
             <h1>Şeyh Edebali Türbesi</h1>
             <p>Kuruluşun Görünmeyen Mimarı</p>
-            <p><a class="btn btn-lg btn-primary" href="#" role="button">Devamı...</a></p>
+            <p><a class="btn btn-lg btn-primary" href="seyhedebali.php" target="_blank" role="button">Devamı...</a></p>
           </div>
         </div>
       </div>
@@ -120,7 +123,7 @@
            <div class="carousel-caption text-left">
             <h1>BİLECİK Müzesi</h1>
             <p>Tarihe Tanıklık Edilmeli</p>
-            <p><a class="btn btn-lg btn-primary" href="#" role="button">Devamı...</a></p>
+            <p><a class="btn btn-lg btn-primary" href="bilecikmuzesi.php" target="_blank" role="button">Devamı...</a></p>
           </div>
         </div>
       </div>
@@ -130,7 +133,7 @@
            <div class="carousel-caption text-left">
             <h1>Yenipazar / Harmankaya Kanyonu</h1>
             <p>Ekstrem Sporları Seviyorsanız Mutlaka Görülmeli</p>
-            <p><a class="btn btn-lg btn-primary" href="#" role="button">Devamı...</a></p>
+            <p><a class="btn btn-lg btn-primary" href="harmankayakanyon.php" target="_blank" role="button">Devamı...</a></p>
           </div>
         </div>
       </div>
@@ -149,21 +152,9 @@
 <hr class="featurette-divider">
   <!----================================================-->
   <!-- FOOTER -->
-	  <footer class="container">
-	   			<div class="row">
-				    <div class="col col-md-9">
-				      <p>Copyright &copy; Abdulkadir ATAR</p>
-				    </div>
-				    
-				    <div class="col col-md-3">
-				       <ul class="social-network social-circle float-right">                      
-                        <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-                    </ul>	
-				    </div>				   
-  				</div>		   
-  	</footer>
+	<?php
+include "footer.php";
+?>
     <?php
     include "login.php";
     ?>

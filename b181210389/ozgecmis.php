@@ -32,7 +32,7 @@
         Benim Şehrim
       </a>
       <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-        <a class="dropdown-item" href="benim-sehrim.php">BİLECİK?</a>
+        <a class="dropdown-item" href="benim-sehrim.php">BİLECİK</a>
         <a class="dropdown-item" href="gezinti.php">BİLECİK'te Gezinti</a>
       </div>
       </li>      
@@ -136,7 +136,7 @@
 		  </tbody>
 	</table>
     </div>
-   
+    
   </div>
   <div class="row align-items-center">
   	<div class="col align-items-center">    
@@ -163,26 +163,16 @@
     </div>  
   </div>
 </div>
+</br>
+<a href="https://www.abdulkadiratar.com.tr/wp-content/uploads/2020/03/CV-web.pdf" target="_blank"><button type="button" class="btn btn-primary btn-lg btn-block"><strong>PDF FORMATINDA CV İNDİR</strong></button></a>
 </div>
 
 <hr class="mt-3 mb-3">
   <!----================================================-->
   <!-- FOOTER -->
-	  <footer class="container">
-	   			<div class="row">
-				    <div class="col col-md-9">
-				      <p>Copyright &copy; Abdulkadir ATAR</p>
-				    </div>
-				    
-				    <div class="col col-md-3">
-				       <ul class="social-network social-circle float-right">                      
-                        <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-                    </ul>	
-				    </div>				   
-  				</div>		   
-  	</footer>
+<?php
+include "footer.php";
+?>
 
   	<?php
 	include "login.php";
